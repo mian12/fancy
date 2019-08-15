@@ -5,3 +5,12 @@
 
  useless function-------no need  for this function
  some code-------some logic added for recursion
+
+
+
+
+ fun 4------
+ fun 5-----
+ fun 6---------
+
+ --------------"fujnction added again"
