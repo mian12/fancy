@@ -3,4 +3,5 @@
  fun 3-------some lacking logic in this function
 
 
- 
+ useless function-------no need  for this function
+ some code-------some logic added for recursion
