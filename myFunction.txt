@@ -1,3 +1,7 @@
-function add---------------this  function adding values
+
 function subtract-------------this is cool way
+
+
+  function add---------------this is good way
+  function subtract-------------this is cool way
 
