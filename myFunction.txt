@@ -1,7 +1,2 @@
- fun 1--------hey this  is very crucial function
- fun 2----------i think this  is also good
- fun 3-------some lacking logic in this function
-
-
- useless function-------no need  for this function
- some code-------some logic added for recursion
+  function add---------------this is good way
+  function subtract-------------this is cool way
